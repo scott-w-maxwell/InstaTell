@@ -21,3 +21,6 @@ The goal of this project is to create a web app that helps determine someone's r
 		- Self Scrape... this is likely difficult to figure out
 
 3. Build Predictive Model
+
+
+4. Create a web app where insagram names can be entered and a prediction can be produced
