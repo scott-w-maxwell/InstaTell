@@ -2,9 +2,13 @@
 
 The goal of this project is to create a web app that helps determine someone's relationship status based on their instagram profile information, posts, etc.
 
-1. Determine Data Needed
+1. Determine Data Needed (Brain Storm)
 
-- Profile Private or Public?
+- Profile
+	- Private Or Public
+	- Followers #
+	- Following #
+	- Bio Text (NLP)
 
 - Profile Picture
 	- Other Persons in photo?
