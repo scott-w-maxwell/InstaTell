@@ -18,11 +18,9 @@ The goal of this project is to create a web app that helps determine someone's r
 	- People in photos?
 
 
-2. Collect Data
-	Options:
-		- API... Costs money
-		
-		- Self Scrape... this is likely difficult to figure out
+2. How to collect data
+	- API... Costs money
+	- Self Scrape... this is likely difficult to figure out
 
 3. Build Predictive Model
 
